@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 data/
+api_key.json
+entso_e-ukraine-exports.pickle
+entso_e-ukraine-imports.pickle
